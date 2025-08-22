@@ -1,0 +1,16 @@
+﻿EmployeeID,FirstName,LastName,Age,Department,Position,HireDate,Salary,Region,PerformanceRating,Status
+101,John,Smith,34,Engineering,Lead Engineer,2022-01-15,95000,North,4.5,Full-Time
+102,Jane,Doe,28,Marketing,Marketing Specialist,2023-03-22,68000,South,4.2,Full-Time
+103,Peter,Jones,45,Sales,Sales Manager,2020-05-30,82000,North,4.8,Full-Time
+104,Emily,White,31,Engineering,Software Engineer,2022-07-19,88000,West,4.6,Full-Time
+105,Michael,Brown,,HR,HR Generalist,2023-09-01,62000,East,3.9,Part-Time
+106,Jessica,Green,39,Sales,Account Executive,2021-11-11,76000,South,4.4,Full-Time
+107,David,Black,29,Engineering,Jr. Software Engineer,2024-02-28,72000,West,4.1,Full-Time
+108,Sarah,King,52,HR,HR Director,2018-08-20,115000,East,4.9,Full-Time
+109,Chris,Lee,33,Marketing,Content Strategist,2022-06-15,71000,,Full-Time
+110,Laura,Taylor,36,Sales,Account Executive,2021-12-01,77000,South,4.5,Full-Time
+111,Daniel,Harris,41,Engineering,Senior Engineer,2019-10-10,105000,North,4.7,Full-Time
+112,Nancy,Clark,27,Marketing,Digital Analyst,2023-08-14,69000,West,4.3,Full-Time
+113,Kevin,Lewis,48,Sales,Sales Manager,2019-04-05,84000,East,4.6,Full-Time
+114,Karen,Walker,30,HR,Recruiter,2024-01-20,65000,South,4.0,Full-Time
+115,John,Smith,34,Engineering,Lead Engineer,2022-01-15,95000,North,4.5,Full-Time

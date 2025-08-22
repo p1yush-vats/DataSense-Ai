@@ -1,0 +1,8 @@
+streamlit
+pandas
+transformers
+torch
+sentencepiece
+plotly
+Pillow
+google-generativeai
